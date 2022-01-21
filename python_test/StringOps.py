@@ -1,0 +1,14 @@
+theList=[3,4,5,21,1,6]
+print(theList)
+theList.reverse()
+print(theList)
+theList.sort()
+print(theList)
+theList.remove(5)
+print(theList)
+theList.index
+print(theList)
+theList.insert(5,32)
+print(theList)
+theList.pop()
+print(theList)
